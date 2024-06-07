@@ -1,0 +1,19 @@
+{
+	"name": "consoledotonly",
+	"version": "0.0.1",
+	"description": "console.only() ignores all other console logs and logs this one only",
+	"author": "Benjamin Aster",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BenjaminAster/console.only.git"
+	},
+	"bugs": {
+		"url": "https://github.com/BenjaminAster/console.only/issues"
+	},
+	"main": "./index.js",
+	"homepage": "https://github.com/BenjaminAster/console.only#readme",
+	"license": "WTFPL",
+	"types": "./index.d.ts",
+	"dependencies": {}
+}
