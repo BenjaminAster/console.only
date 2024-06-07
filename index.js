@@ -22,10 +22,12 @@ console.only = function (...args) {
 			= console.dirxml
 			= function () { };
 		globalThis.addEventListener?.("error", () => {
-			console_clear();
-			for (const log of consoleOnlyLogs) {
-				console_log(...log);
-			}
+			globalThis.setTimeout(() => {
+				console_clear();
+				for (const log of consoleOnlyLogs) {
+					console_log(...log);
+				}
+			});
 		});
 	}
 
