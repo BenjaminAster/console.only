@@ -25,3 +25,8 @@ console.log("test4");
 
 **Q**: Does this actually work? <br>
 **A**: Also yes.
+
+## Motivation
+
+> [@shadcn](https://x.com/shadcn/status/1798962798028087641)
+![Perfect Twitter Screenshot](https://github.com/BenjaminAster/console.only/assets/19857414/e83c19c0-7e94-4171-8a1f-cec6e5c54ba4)
