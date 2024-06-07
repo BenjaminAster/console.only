@@ -1,6 +1,6 @@
 {
 	"name": "consoledotonly",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "console.only() ignores all other console logs and logs this one only",
 	"author": "Benjamin Aster",
 	"type": "module",
